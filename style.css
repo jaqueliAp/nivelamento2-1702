@@ -1,0 +1,29 @@
+body{background-color: rgb(67, 82, 60);
+ }
+ .part1 { color:rgb(0, 0, 0);
+    border-style: dashed;
+    font-size: 100%;
+   text-align: center;}
+#ima1 {width: 30%;
+    border-style: inset;
+    border-width: 7px;
+   margin-left: 35%;
+   margin-right: 30%;
+}
+h2 { color:rgb(0, 0, 0);
+    font-size: 200%;
+   text-align: center;}
+#ima2 {width: 30%;
+    border-style: inset;
+    border-width: 7px;
+   margin-left: 35%;
+}
+h3{ color:rgb(14, 13, 13);
+    font-size: 200%;
+   text-align: center;}
+#ima3 {width: 30%;
+    border-style: inset;
+    border-width: 7px;
+   margin-left: 35%;
+}
+
